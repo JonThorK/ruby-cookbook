@@ -54,7 +54,6 @@ define :ruby_packages, :action => :install do
       ruby-libs
       ruby-devel
       ruby-docs
-      ruby-ri
       ruby-irb
       ruby-rdoc
     }
